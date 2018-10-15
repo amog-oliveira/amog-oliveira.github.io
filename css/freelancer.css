@@ -352,7 +352,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-secondary {
-  background-color: #e1e1e1!important;
+  background-color: #e1e1e1ff !important;
 }
 
 .text-primary {
