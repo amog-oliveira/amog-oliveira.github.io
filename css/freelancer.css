@@ -49,15 +49,15 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #18BC9C;
+  background-color: purple;
 }
 
 hr.star-dark {
-  border-color: #2C3E50;
+  border-color: #e1e1ff;
 }
 
 hr.star-dark:after {
-  color: #2C3E50;
+  color: #e1e1ff;
   background-color: white;
 }
 
@@ -132,7 +132,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #18BC9C;
+  color: purple;
 }
 
 #mainNav .navbar-toggler {
@@ -157,11 +157,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #18BC9C;
+    background: purple;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #18BC9C;
+    background: purple;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -216,7 +216,7 @@ header.masthead h2 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, 0.9);
+  background-color: rgba(128, 0, 128, 0.9);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -317,7 +317,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: purple;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -327,20 +327,20 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color: #e1e1ff;
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #aeaeff;
 }
 
 a {
-  color: #18BC9C;
+  color: purple;
 }
 
 a:focus, a:hover, a:active {
-  color: #128f76;
+  color: #4d004d;
 }
 
 .btn {
@@ -352,33 +352,33 @@ a:focus, a:hover, a:active {
 }
 
 .bg-secondary {
-  background-color: #e1e1e1ff !important;
+  background-color: #e1e1ff !important;
 }
 
 .text-primary {
-  color: #18BC9C !important;
+  color: purple !important;
 }
 
 .text-secondary {
-  color: #2C3E50 !important;
+  color: #e1e1ff !important;
 }
 
 .btn-primary {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: purple;
+  border-color: purple;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #128f76;
-  border-color: #128f76;
+  background-color: #4d004d;
+  border-color: #4d004d;
 }
 
 .btn-secondary {
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: #e1e1ff;
+  border-color: #e1e1ff;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #1a252f;
-  border-color: #1a252f;
+  background-color: #aeaeff;
+  border-color: #aeaeff;
 }
